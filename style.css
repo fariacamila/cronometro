@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+body{
+    background-color: palevioletred;
+}
+
+.cronometro{
+    padding-top: 200px;
+}
+
+.relogio{
+    padding: 20px;
+    color: #fff;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: #fff;
+}
+
+.inicio{
+    background-color: #008000;
+}
+
+.pausar{
+    background-color: #808080;
+}
+
+.parar{
+    background-color: #ff0000;
+}
